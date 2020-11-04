@@ -60,10 +60,10 @@
   
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/69306162/ws?session=eyJ2IjoiVjMiLCJ1Ijo2OTMwNjE2MiwicyI6NjAxNjA2MjQ3LCJjIjoxOTY1MTAyMTg2LCJ0IjoxNjA0NDc1ODU2fQ==--b8d0965291429520741ab30f26f5d29c8502aa2fd3c2d7112610f5a426fa88e5" data-refresh-url="/_alive">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/69306162/ws?session=eyJ2IjoiVjMiLCJ1Ijo2OTMwNjE2MiwicyI6NjAxNjA2MjQ3LCJjIjoxNzA1MTE4MDMwLCJ0IjoxNjA0NDc5MDE1fQ==--a19ab3afe602f4eea0bfb26a71f67ac66fe87ba9ae53102b1afb238b0dccf4b2" data-refresh-url="/_alive">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="0690:5902:12AA7:16DA9:5FA25BCB" data-pjax-transient="true" /><meta name="html-safe-nonce" content="f353373ad8bc3f8e3cfef2071823fedfb9f1f9a838c8bf89dd809040859407bc" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9sZXJuZGV2b3BzL2xhYnMvdHJlZS9tYXN0ZXIvYW5zaWJsZS9pbnN0YWxsIiwicmVxdWVzdF9pZCI6IjA2OTA6NTkwMjoxMkFBNzoxNkRBOTo1RkEyNUJDQiIsInZpc2l0b3JfaWQiOiIxNzY2MDgyMjk4NzkxMzEwNTkzIiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aC0xIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="f1c59581a277f395227080cf4e8e2fbd0aec062a08abdf368c9f8a7c6c0c2046" data-pjax-transient="true" /><meta name="cookie-consent-required" content="false" />
+  <meta name="request-id" content="05E8:21AF:3F260:4AF5D:5FA267F9" data-pjax-transient="true" /><meta name="html-safe-nonce" content="f353373ad8bc3f8e3cfef2071823fedfb9f1f9a838c8bf89dd809040859407bc" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9sZXJuZGV2b3BzL2xhYnMvdHJlZS9tYXN0ZXIvYXdzIiwicmVxdWVzdF9pZCI6IjA1RTg6MjFBRjozRjI2MDo0QUY1RDo1RkEyNjdGOSIsInZpc2l0b3JfaWQiOiIxNzY2MDgyMjk4NzkxMzEwNTkzIiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aC0xIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="9a3681e6d63b0db1f970abf875dada60ce70d5dfd63d7002f9b1206b1b67db69" data-pjax-transient="true" /><meta name="cookie-consent-required" content="false" />
 
     <meta name="hovercard-subject-tag" content="repository:194017374" data-pjax-transient>
 
@@ -106,7 +106,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MzU5NTA4YzFmYjBkMzFmNmU5MjAwZGE2YzgzZDc3NWE1OGJhYjdiODM0OWYxOTUzYmU0ZWRlZGI0YjAyODg0ZXx7InJlbW90ZV9hZGRyZXNzIjoiMTAzLjE5NS4yMDMuMTAwIiwicmVxdWVzdF9pZCI6IjA2OTA6NTkwMjoxMkFBNzoxNkRBOTo1RkEyNUJDQiIsInRpbWVzdGFtcCI6MTYwNDQ3NTg1NiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="NDhkYjI3OGQ0ODgxMjU3YmZhNmZlY2QyN2ZhZWYzY2FkODk2ZTRjNjFiNDBiZGZiZjM4YzUyM2VhZTBmNGM5OXx7InJlbW90ZV9hZGRyZXNzIjoiMTAzLjE5NS4yMDMuMTAwIiwicmVxdWVzdF9pZCI6IjA1RTg6MjFBRjozRjI2MDo0QUY1RDo1RkEyNjdGOSIsInRpbWVzdGFtcCI6MTYwNDQ3OTAxNSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS">
 
@@ -120,7 +120,7 @@
   <meta name="octolytics-dimension-user_id" content="45846027" /><meta name="octolytics-dimension-user_login" content="lerndevops" /><meta name="octolytics-dimension-repository_id" content="194017374" /><meta name="octolytics-dimension-repository_nwo" content="lerndevops/labs" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="194017374" /><meta name="octolytics-dimension-repository_network_root_nwo" content="lerndevops/labs" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -193,7 +193,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="KE/tmqo8UmIvCHJNUC87moZwCVDlckIDZ5zf1TPNefFFiR40u18tqKGKnSJkTpBxIxiSCp4Ef6GqPPtIkiR24A==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="9FbWWv24Ab3WwMxCuB6v0HDGZ0x/B5maFfv5mdbAyx2ZkCX07Nt+d1hCIy2MfwQ71a78FgRxpDjYW90EdynEDA==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -344,7 +344,7 @@
       <img class="avatar avatar-user" src="https://avatars2.githubusercontent.com/u/69306162?s=40&amp;v=4" width="20" height="20" alt="@arunravi2704" />
       arunravi2704
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="AnNvK87yDJ0gVD3AyOAbpnJegq+Zp4i87kyQb2C5IglPUXL8GxLHAHLAkCf4j5ZZ2kr3tn8AioJZZ0G3oI5etg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KK8sNX463MnKappTy3xsACVWpzZEdHq6lsZ+gsKzrBNljTHiq9oXVJj+N7T7E+H/jULSL6LTeIQh7a9aAoTQrA==" />
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -364,7 +364,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
       
 
-    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjkzMDYxNjIiLCJ0IjoxNjA0NDc1ODU2fQ==--aafaf38b3e86316a3d83e61691b6780a08d189098cdb94fd29f3f7b59d6d0e92">
+    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjkzMDYxNjIiLCJ0IjoxNjA0NDc5MDE1fQ==--77a3bb26b68fda951c08c412e540d0ea420c5e4d97f592faae96454aeaf68cdb">
       <a href="/notifications"
          class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
          
@@ -447,7 +447,7 @@
   data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
     <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit "
-      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:45846027,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:69306162,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;}}" data-hydro-click-hmac="9aafa9377a9856610c8525b2d3aade93ee32de3a9b053218d92fcbbcc2616ac8">
+      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:45846027,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:69306162,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;}}" data-hydro-click-hmac="f2193c2050649cfa8f3eba67f096657641f506f65b8dae19a8663b2082eb8ee4">
       <div class="d-flex flex-items-center flex-items-stretch">
         <div class="f6 lh-condensed user-status-header d-flex user-status-emoji-only-header circle">
           <div class="user-status-emoji-container flex-shrink-0 mr-2 d-flex flex-items-center flex-justify-center lh-condensed-ultra v-align-bottom">
@@ -465,7 +465,7 @@
       </div>
     </summary>
     <details-dialog class="rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?circle=0&amp;compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="0BamaTnDKOxcSV3iwaEW6apU6kApBrg+pS38cxynso/Z0LkqWHylGX6thEo/nFuI6lUtoIMcauijbaZCiymGOA==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?circle=0&amp;compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="MNwbtnXVtrVC4kR/kmOCpK7CfvG+zdCd/ae8jc/dZrM5GgT1FGo7QGAGnddsXs/F7sO5ERTXAkv75+a8WFNSBA==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
@@ -583,17 +583,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-11-04T13:44:16+05:30">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-11-04T14:36:55+05:30">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-11-04T14:14:16+05:30">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-11-04T15:06:55+05:30">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-11-04T17:14:16+05:30">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-11-04T18:06:55+05:30">
             in 4 hours
           </button>
         </li>
@@ -629,24 +629,24 @@
       </div>
       <div role="none" class="dropdown-divider"></div>
 
-    <a role="menuitem" class="dropdown-item" href="/arunravi2704" data-ga-click="Header, go to profile, text:your profile" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;target&quot;:&quot;YOUR_PROFILE&quot;,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="e89282c431145e2f0e2d79d1ff0458ff1e6ef41bff91d600c4a0fc4ecd5d18a8" >Your profile</a>
+    <a role="menuitem" class="dropdown-item" href="/arunravi2704" data-ga-click="Header, go to profile, text:your profile" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;target&quot;:&quot;YOUR_PROFILE&quot;,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="cdbf172088669b4f9319509549fd957183ac48cd2db306df2c38f7298c31f072" >Your profile</a>
 
-    <a role="menuitem" class="dropdown-item" href="/arunravi2704?tab=repositories" data-ga-click="Header, go to repositories, text:your repositories" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;target&quot;:&quot;YOUR_REPOSITORIES&quot;,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="260ee08449fe4456192ddf3f222a4091eb37d18db743375aef956d9ae000be79" >Your repositories</a>
-
-
-
-    <a role="menuitem" class="dropdown-item" href="/arunravi2704?tab=projects" data-ga-click="Header, go to projects, text:your projects" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;target&quot;:&quot;YOUR_PROJECTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="2176952459dd7fd02668dc38721db8d974da7107e026245d19e218804bddf8a5" >Your projects</a>
+    <a role="menuitem" class="dropdown-item" href="/arunravi2704?tab=repositories" data-ga-click="Header, go to repositories, text:your repositories" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;target&quot;:&quot;YOUR_REPOSITORIES&quot;,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="f76b84fe7e2e7e18017b72cec29f6e22de57580f9a32e5a7e5555515e1b8e8cc" >Your repositories</a>
 
 
-    <a role="menuitem" class="dropdown-item" href="/arunravi2704?tab=stars" data-ga-click="Header, go to starred repos, text:your stars" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;target&quot;:&quot;YOUR_STARS&quot;,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="5de78bce9ab0d08a4a9562d5f472b05d915feb5d259524e0da9ca882b85f1ca3" >Your stars</a>
-      <a role="menuitem" class="dropdown-item" href="https://gist.github.com/mine" data-ga-click="Header, your gists, text:your gists" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;target&quot;:&quot;YOUR_GISTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="8dd975d68185a9dab44b2790fcefb2a09d32a5222e10c305d319789617e4dc21" >Your gists</a>
+
+    <a role="menuitem" class="dropdown-item" href="/arunravi2704?tab=projects" data-ga-click="Header, go to projects, text:your projects" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;target&quot;:&quot;YOUR_PROJECTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="08c782d51da624d2d996f2d5051bb64548f148170cc9b88b85ae0279989ae54d" >Your projects</a>
+
+
+    <a role="menuitem" class="dropdown-item" href="/arunravi2704?tab=stars" data-ga-click="Header, go to starred repos, text:your stars" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;target&quot;:&quot;YOUR_STARS&quot;,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="40c5d1baf559a3f2c65dde466909d80f77da3fe98a3dfda07829a16f893bda26" >Your stars</a>
+      <a role="menuitem" class="dropdown-item" href="https://gist.github.com/mine" data-ga-click="Header, your gists, text:your gists" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;target&quot;:&quot;YOUR_GISTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="5fe74ccf0b229f0401863f18a18ff6c19ab6b8f1b9263271b3ff7671767c7f2b" >Your gists</a>
 
 
 
 
 
     <div role="none" class="dropdown-divider"></div>
-      <a role="menuitem" class="dropdown-item" href="/settings/billing" data-ga-click="Header, go to billing, text:upgrade" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;target&quot;:&quot;UPGRADE&quot;,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="871d3e073b44b7943a67c0270d88e291a0338f97aa073ac0a4cdbd718013230f" >Upgrade</a>
+      <a role="menuitem" class="dropdown-item" href="/settings/billing" data-ga-click="Header, go to billing, text:upgrade" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;target&quot;:&quot;UPGRADE&quot;,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="1ba44c8b943bfc8d299be09b2cd1ed854a71ccd0ed8a99848e46d024035c6a36" >Upgrade</a>
       
 <div id="feature-enrollment-toggle" class="hide-sm hide-md feature-preview-details position-relative">
   <button
@@ -654,24 +654,24 @@
     class="dropdown-item btn-link"
     role="menuitem"
     data-feature-preview-trigger-url="/users/arunravi2704/feature_previews"
-    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}"
-    data-feature-preview-close-hmac="58007372f64b8e3b7ef5c408b31204aef095c46faa5f6c8d1b74d8682645d1ea"
-    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}"
-    data-hydro-click-hmac="271d4d948c8ff9d8e606399b5fbdfc05fecf9dd165104a88aa19b907277e433b"
+    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}"
+    data-feature-preview-close-hmac="038b631eaf3cf652235a03dd82a82698990ac1d1c779057ca574d966051557bd"
+    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}"
+    data-hydro-click-hmac="17c07fbb7fd7503399672c065c562c4dec206b08a15fae974468ad1632b50caf"
   >
     Feature preview
   </button>
     <span class="feature-preview-indicator js-feature-preview-indicator" hidden></span>
 </div>
 
-    <a role="menuitem" class="dropdown-item" href="https://docs.github.com" data-ga-click="Header, go to help, text:help" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;target&quot;:&quot;HELP&quot;,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="b66b774a35f6c3809f835c75056a92629c8dd7d7b49cc99d23424a55ef5b30f9" >Help</a>
-    <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;target&quot;:&quot;SETTINGS&quot;,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="ea50e773835272710600d88a9f1783b0d63ec4bd93f1ff12157a10327694c74b" >Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="AKoFlyZHkIMp+OScYvlkWvJmPsSMreO/QzMV64bSfvhNiBhA86dbHntsSXtSlumlWnJL3WoK4YH0GMQzRuUCRw==" />
+    <a role="menuitem" class="dropdown-item" href="https://docs.github.com" data-ga-click="Header, go to help, text:help" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;target&quot;:&quot;HELP&quot;,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="ef3fe8b0d6792961fa6dee34a4f6bd356d2db2ab3ad4874edcc53eaf1222db6f" >Help</a>
+    <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;target&quot;:&quot;SETTINGS&quot;,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="d226c8349a408394c570e01c7ad965ce8da83aa33d70900787ff43adfaa2ea34" >Settings</a>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="eTJMWxx7xxMBb4gALkWHAD5DPFIVHV0GRDqkOrkhdfA0EFGMyZsMjlP7JeceKgr/lldJS/O6XzjzEXXieRYJTw==" />
       
-      <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;target&quot;:&quot;SIGN_OUT&quot;,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="b277ecb95f7542ab56666a1a6c7cba8547a0a250e19f7ebe105acd7e04265a7e"  role="menuitem">
+      <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;target&quot;:&quot;SIGN_OUT&quot;,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="2f3f8e77182467877ff86704e039dee6ca61648111661bf88b458a7f9313a50e"  role="menuitem">
         Sign out
       </button>
-      <input type="text" name="required_field_2af6" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1604475856473" class="form-control" /><input type="hidden" name="timestamp_secret" value="dfd05abbaf95885dac629f2af0351d08530f728cb25c0067693903cdd6ee7cf1" class="form-control" />
+      <input type="text" name="required_field_9ce0" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1604479015937" class="form-control" /><input type="hidden" name="timestamp_secret" value="2e62a4cd865d3193c56b4b7a7e36b338ab827873f7cae10cbcddb1c168e91966" class="form-control" />
 </form>  </details-menu>
 </details>
 
@@ -756,10 +756,10 @@
           <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
   <li>
-            <form data-remote="true" class="d-flex js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="POWGOJSY/wmpPXDkbFheANQoX77SQIOaKXjiUSn2MAXUrhAyuPlwAl6BeL9hJF+wxaO88a/5wsz9ycfApU6UuA==" />      <input type="hidden" name="repository_id" value="194017374">
+            <form data-remote="true" class="d-flex js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="oyHd2vKGHNnTjnwwRA4PXxJaov2E3Xk00vIcPUti5thLakvQ3ueT0iQydGtJcg7vA9FBsvlkOGIGQzmsx9pCZQ==" />      <input type="hidden" name="repository_id" value="194017374">
 
       <details class="details-reset details-overlay select-menu hx_rsm">
-        <summary class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:194017374,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="925e787389b83d0813b0aaf39729ce4525563014119bf6f86c74b72c05d95779" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:194017374,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="1e333b315c8f77cee6ce2712aa473558b1de6cfaf8af6c85faa31563ac7fd9fa" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"></path></svg>
               Watch
           </span>
@@ -831,18 +831,18 @@
 
   <li>
         <div class="js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/lerndevops/labs/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QNxyEtojH4Ljej7u4c+moUyqtxYjc6qMcViOsAhOyZ3JPNt+wtX/Y1Pu0bx9ksyP4DHET6sfb8LHy4JCfxqNQQ==" />
+    <form class="starred js-social-form" action="/lerndevops/labs/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lUSzIg66/Hlo7fk/wB19uaIrE7xDaC468W0Z8tjWtQQcpBpOFkwcmNh5Fm1cQBeXDrBg5csE63RH/hUAr4Lx2A==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar lerndevops/labs" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:194017374,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="d00c9318a730d137f44c031f6d024263bf6b57f1212cc8c92ff310dbea1c4cc2" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar lerndevops/labs" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:194017374,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="42f9be0538e2fcec4637c54c004ab1782efc563892ba608d4af389c1199b9d66" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
         Unstar
 </button>        <a class="social-count js-social-count" href="/lerndevops/labs/stargazers"
            aria-label="32 users starred this repository">
            32
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/lerndevops/labs/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="amJxRvXNvjfSpDfWw0sKgUBpWDau+cIO6Ih9XsoK9tz1bFD/wt948EETnQctmU9DlAoWi3My67HVWlruvcr7Xw==" />
+    <form class="unstarred js-social-form" action="/lerndevops/labs/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="+Bi8q+Srh+rSszJMwwqzWIYXlUaUyHt9F3QXlgjrdcJnFp0S07lBLUEEmJ0t2PaaUnTb+0kDUsIqpjAmfyt4QQ==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star lerndevops/labs" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:194017374,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="0841fabf55223a4bdf1acb22f488fecc51e8fb9ff45a5ffffe26828d8c70ff47" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star lerndevops/labs" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:194017374,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="5568f4808036b050125a54234ed0c74984e415f747e68dc447b30ff757c85f02" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
         Star
 </button>        <a class="social-count js-social-count" href="/lerndevops/labs/stargazers"
            aria-label="32 users starred this repository">
@@ -853,8 +853,8 @@
   </li>
 
   <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/lerndevops/labs/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SrAD3KtVmJy93ZXWE2zSpQu8LtvkzwX5d+b39Elbdl3mNuYED2xEj37PuIldGo4HWIFUmsg23g5OOhHV7NLgSQ==" />
-              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:194017374,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="36a2286ddfb4032d3feb074ed47cfcf3e8efdaff0a7687b71f5d4106d6c6ed5a" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of lerndevops/labs to your account" aria-label="Fork your own copy of lerndevops/labs to your account">                <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/lerndevops/labs/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="u0MQ7U4wHeHiojhMA9M6kNuqXFr9bus5KOU7DPfuzboXxfU16gnB8iGwFRNNpWYyiJcmG9GXMM4ROd0tUmdbrg==" />
+              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:194017374,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="af66a6d16a1485ed302ffb48c3bdf69a4e384ba5f95f930678a5dd49c55c26fb" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of lerndevops/labs to your account" aria-label="Fork your own copy of lerndevops/labs to your account">                <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
                 Fork
 </button></form>
       <a href="/lerndevops/labs/network/members" class="social-count"
@@ -977,9 +977,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/lerndevops/labs/blob/85c4fdf2ea30e3b4b7872be149a160ffc6523e26/ansible/install/setup-user.sh">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/lerndevops/labs/blob/85c4fdf2ea30e3b4b7872be149a160ffc6523e26/aws/setup-user.sh">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:12954b3628031810f09d1f9c966264c35d5eaf418ff2b13b62f6bb0de05870d4 -->
+    <!-- blob contrib key: blob_contributors:v22:166876db6b96f684d68bee48d2f96ccf2da680e7b894cc75b8230836e8469367 -->
     
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
@@ -994,7 +994,7 @@
       <span class="dropdown-caret"></span>
     </summary>
 
-    <details-menu class="SelectMenu SelectMenu--hasFilter" src="/lerndevops/labs/refs/master/ansible/install/setup-user.sh?source_action=show&amp;source_controller=blob" preload>
+    <details-menu class="SelectMenu SelectMenu--hasFilter" src="/lerndevops/labs/refs/master/aws/setup-user.sh?source_action=show&amp;source_controller=blob" preload>
       <div class="SelectMenu-modal">
         <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
           <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 24 24" version="1.1" width="32" aria-hidden="true"><path d="M7.75 11c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5C9 11.56 8.44 11 7.75 11zm1.27 4.5a.469.469 0 01.48-.5h5a.47.47 0 01.48.5c-.116 1.316-.759 2.5-2.98 2.5s-2.864-1.184-2.98-2.5zm7.23-4.5c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5c0-.69-.56-1.25-1.25-1.25z"></path><path fill-rule="evenodd" d="M21.255 3.82a1.725 1.725 0 00-2.141-1.195c-.557.16-1.406.44-2.264.866-.78.386-1.647.93-2.293 1.677A18.442 18.442 0 0012 5c-.93 0-1.784.059-2.569.17-.645-.74-1.505-1.28-2.28-1.664a13.876 13.876 0 00-2.265-.866 1.725 1.725 0 00-2.141 1.196 23.645 23.645 0 00-.69 3.292c-.125.97-.191 2.07-.066 3.112C1.254 11.882 1 13.734 1 15.527 1 19.915 3.13 23 12 23c8.87 0 11-3.053 11-7.473 0-1.794-.255-3.647-.99-5.29.127-1.046.06-2.15-.066-3.125a23.652 23.652 0 00-.689-3.292zM20.5 14c.5 3.5-1.5 6.5-8.5 6.5s-9-3-8.5-6.5c.583-4 3-6 8.5-6s7.928 2 8.5 6z"></path></svg>
@@ -1006,7 +1006,7 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal mx-0 mx-md-3 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/lerndevops/labs"><span>labs</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/lerndevops/labs/tree/master/ansible"><span>ansible</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/lerndevops/labs/tree/master/ansible/install"><span>install</span></a></span><span class="separator">/</span><strong class="final-path">setup-user.sh</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/lerndevops/labs"><span>labs</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/lerndevops/labs/tree/master/aws"><span>aws</span></a></span><span class="separator">/</span><strong class="final-path">setup-user.sh</strong>
       </h2>
       <a href="/lerndevops/labs/find/master"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -1021,7 +1021,7 @@
 </summary>  <div>
     <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:194017374,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/ansible/install/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="cf9addff64890c31d5a02087ffbf902d910b6fa52e2e5ce1ad927b39346482dd" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/lerndevops/labs/find/master">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:194017374,&quot;originating_url&quot;:&quot;https://github.com/lerndevops/labs/blob/master/aws/setup-user.sh&quot;,&quot;user_id&quot;:69306162}}" data-hydro-click-hmac="d090e0e8507a8dea9545c38c79c0505e2175dc9c9c33f4777ed48918cb802322" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/lerndevops/labs/find/master">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small text-gray" aria-hidden="true">T</span>
 </a>            </li>
@@ -1035,7 +1035,7 @@
             </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy value="ansible/install/setup-user.sh" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
+              <clipboard-copy value="aws/setup-user.sh" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
                 Copy path
               </clipboard-copy>
             </li>
@@ -1045,17 +1045,69 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/lerndevops/labs/contributors/master/ansible/install/setup-user.sh" class="commit-loader">
-        <div class="Box-header Box-header--blue d-flex flex-items-center">
-          <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
-          <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
-        </div>
+      
+  <div class="Box-header Box-header--blue Details js-details-container">
+      <div class="d-flex flex-items-center">
+        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
+          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/lerndevops/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/lerndevops"><img class="avatar avatar-user" src="https://avatars0.githubusercontent.com/u/45846027?s=48&amp;v=4" width="24" height="24" alt="@lerndevops" /></a>
+        </span>
+        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
+          <div class="css-truncate css-truncate-overflow">
+            <a class="text-bold link-gray-dark" rel="author" data-hovercard-type="user" data-hovercard-url="/users/lerndevops/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/lerndevops">lerndevops</a>
 
-        <div class="Box-body d-flex flex-items-center" >
-          <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
-          <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
+              <span>
+                <a data-pjax="true" title="Update setup-user.sh" class="link-gray" href="/lerndevops/labs/commit/dc3ac084759d3e79c219ddf12f6ff5533acd4368">Update setup-user.sh</a>
+              </span>
+          </div>
+
+
+          <span class="ml-2">
+            <include-fragment accept="text/fragment+html" src="/lerndevops/labs/commit/dc3ac084759d3e79c219ddf12f6ff5533acd4368/rollup?direction=e" class="d-inline"></include-fragment>
+          </span>
         </div>
-</include-fragment>    </div>
+        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end text-gray no-wrap">
+          <span class="d-none d-md-inline">
+            <span>Latest commit</span>
+            <a class="text-small text-mono link-gray" href="/lerndevops/labs/commit/dc3ac084759d3e79c219ddf12f6ff5533acd4368" data-pjax>dc3ac08</a>
+            <span itemprop="dateModified"><relative-time datetime="2020-09-01T11:34:37Z" class="no-wrap">Sep 1, 2020</relative-time></span>
+          </span>
+
+          <a data-pjax href="/lerndevops/labs/commits/master/aws/setup-user.sh" class="ml-3 no-wrap link-gray-dark no-underline">
+            <svg class="octicon octicon-history text-gray" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path></svg>
+            <span class="d-none d-sm-inline">
+              <strong>History</strong>
+            </span>
+          </a>
+        </div>
+      </div>
+
+  </div>
+
+  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
+    <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-3" id="blob_contributors_box">
+      <summary class="link-gray-dark">
+        <svg class="octicon octicon-people text-gray" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path></svg>
+        <strong>1</strong>
+        
+        contributor
+      </summary>
+      <details-dialog
+        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+        aria-label="Users who have contributed to this file"
+        src="/lerndevops/labs/contributors-list/master/aws/setup-user.sh" preload>
+        <div class="Box-header">
+          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+            <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
+          </button>
+          <h3 class="Box-title">
+            Users who have contributed to this file
+          </h3>
+        </div>
+        <include-fragment class="octocat-spinner my-3" aria-label="Loading..."></include-fragment>
+      </details-dialog>
+    </details>
+  </div>
+    </div>
 
 
 
@@ -1081,8 +1133,8 @@
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a href="/lerndevops/labs/raw/master/ansible/install/setup-user.sh" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
-        <a href="/lerndevops/labs/blame/master/ansible/install/setup-user.sh" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
+      <a href="/lerndevops/labs/raw/master/aws/setup-user.sh" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
+        <a href="/lerndevops/labs/blame/master/aws/setup-user.sh" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
     </div>
 
     <div>
@@ -1094,13 +1146,13 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/lerndevops/labs/edit/master/ansible/install/setup-user.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="U/tHIR35XxTFR/wD+p4AjUkueunf4S9oEU8GoId2hglykRW7+39HQzQRHWoj2k9Gjwy26gtb9TL+I+LshuC4iw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/lerndevops/labs/edit/master/aws/setup-user.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ACRJh9/9d7vnNefUaZXCt4yWcwfKEDVO5ux8+ppSU4PafmetIBCLt9LLI9QDrMiGjnjqBJYnviZXQ5WfNQFlRQ==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/lerndevops/labs/delete/master/ansible/install/setup-user.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="tJ79XDiKu/Za6ILdA1KqgdDiukK9mx57vCoM9dupfWZb3v9KtXOfwdOcaollB89qMp3+iKimCC0RI2Nt7aXVQw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/lerndevops/labs/delete/master/aws/setup-user.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="EoBSPxMzgPXJgWtSEb3zScvX/KYNrwlQPWFrM9aphhzddAjUBntzsktN6Fr682s/2gOfvlcDaLI44GiNOwghKA==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
@@ -1684,7 +1736,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/lerndevops/labs/blame/85c4fdf2ea30e3b4b7872be149a160ffc6523e26/ansible/install/setup-user.sh">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/lerndevops/labs/blame/85c4fdf2ea30e3b4b7872be149a160ffc6523e26/aws/setup-user.sh">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/lerndevops/labs/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
