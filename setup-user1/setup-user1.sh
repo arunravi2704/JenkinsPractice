@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@arunravi2704 
-lerndevops
-/
-labs
-30
-32729
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-labs/aws/setup-user.sh
-@lerndevops
-lerndevops Update setup-user.sh
-Latest commit dc3ac08 on 1 Sep
- History
- 1 contributor
-Executable File  134 lines (116 sloc)  3.26 KB
-  
 #!/bin/bash
 
 now=`date +%d%b%Y-%H%M`
